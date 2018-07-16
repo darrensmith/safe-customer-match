@@ -1,0 +1,20 @@
+{
+  "name": "safe-email-match",
+  "version": "0.0.1",
+  "description": "safely matches hashed third party email database with local email database without revealing emails that are not present in the crossover",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "csv": "^3.1.0"
+  },
+  "engines": [
+    "node"
+  ],
+  "author": "Darren Smith",
+  "license": "Proprietary",
+  "bin": {
+    "zip-email-match": "./index.js"
+  }
+}

@@ -1,0 +1,376 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "isnode-template/node_modules/ismod-data/index.js",
+			"settings":
+			{
+				"buffer_size": 1809,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "isnode-template/node_modules/ismod-router/index.js",
+			"settings":
+			{
+				"buffer_size": 2062,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/darrensmith/isnode-project",
+		"/Users/darrensmith/isnode-project/isnode-template",
+		"/Users/darrensmith/isnode-project/isnode-template/config",
+		"/Users/darrensmith/isnode-project/isnode-template/node_modules",
+		"/Users/darrensmith/isnode-project/isnode-template/node_modules/ismod-router",
+		"/Users/darrensmith/isnode-project/isnode-template/node_modules/ismod-statistics"
+	],
+	"file_history":
+	[
+		"/Users/darrensmith/isnode-project/isnode-template/node_modules/ismod-statistics/index.js",
+		"/Users/darrensmith/isnode-project/isnode-template/node_modules/ismod-statistics/package.json",
+		"/Users/darrensmith/isnode-project/isnode-template/node_modules/ismod-daemon/index.js",
+		"/Users/darrensmith/isnode-project/isnode-template/node_modules/ismod-frontend-interface-websockets/index.js",
+		"/Users/darrensmith/isnode-project/isnode-template/node_modules/ismod-frontend-interface-http/index.js",
+		"/Users/darrensmith/isnode-project/isnode-template/config/config.json",
+		"/Users/darrensmith/isnode-project/isnode-template/node_modules/ismod-router/index.js",
+		"/Users/darrensmith/isnode-project/isnode-template/node_modules/ismod-frontend-interface-ssh/index.js",
+		"/Users/darrensmith/isnode-project/isnode-template/node_modules/ismod-frontend-interface-cli/index.js",
+		"/Users/darrensmith/node_modules/ws/package.json",
+		"/Users/darrensmith/isnode-project/isnode-template/service/ssh-keys/id_rsa.pub",
+		"/Users/darrensmith/isnode-project/isnode-template/service/ssh-keys/id_rsa",
+		"/Users/darrensmith/node_modules/ssh2/package.json",
+		"/Users/darrensmith/node_modules/ssh2-streams/package.json",
+		"/Users/darrensmith/isnode-project/isnode-template/index.js",
+		"/Users/darrensmith/node_modules/multipipe/package.json",
+		"/Users/darrensmith/is-sample/package.json",
+		"/Users/darrensmith/node_modules/lodash/package.json",
+		"/Users/darrensmith/todomvc-master/store/index.js",
+		"/Users/darrensmith/todomvc-master/README.md",
+		"/Users/darrensmith/is-gateway-manager/pages/index.vue",
+		"/Users/darrensmith/todomvc-master/package.json",
+		"/Users/darrensmith/todomvc-master/server.js",
+		"/Users/darrensmith/Downloads/elasticsearch-dashboard_rev5.json",
+		"/Users/darrensmith/shakespeare_6.0.json",
+		"/Users/darrensmith/accounts.json",
+		"/Users/darrensmith/Downloads/swagger-ui-master/dist/swagger-ui-bundle.js",
+		"/Users/darrensmith/Documents/Personal Items/Projects/IndustrySwarm/IndustrySwarm-Services/modules/basicwidgets/default/custom.js",
+		"/Users/darrensmith/Downloads/id_rsa.pub",
+		"/Users/darrensmith/Downloads/duplicity/owncloud/duplicity-backup.conf",
+		"/Users/darrensmith/Downloads/duplicity/owncloud/duplicity-backup.sh",
+		"/Users/darrensmith/Downloads/duplicity/bitwarden/duplicity-backup.conf",
+		"/Users/darrensmith/Downloads/duplicity/bitwarden/duplicity-backup.sh",
+		"/Users/darrensmith/Downloads/duplicity/openproject/files/duplicity-backup.conf",
+		"/Users/darrensmith/Downloads/duplicity/openproject/files/duplicity-backup.sh",
+		"/Users/darrensmith/Downloads/duplicity/openproject/db/duplicity-backup.conf",
+		"/Users/darrensmith/Downloads/duplicity/openproject/db/duplicity-backup.sh",
+		"/Users/darrensmith/Downloads/duplicity/openproject/duplicity-backup.conf",
+		"/Users/darrensmith/Downloads/duplicity/openproject/duplicity-backup.sh",
+		"/Volumes/ACS CCID PC:SC Driver Installer/ReadMe.txt",
+		"/Users/darrensmith/HomeLabKey.log",
+		"/Users/darrensmith/Downloads/ACS-Unified-Driver-Lnx-Mac-115-P/INSTALL",
+		"/Users/darrensmith/Desktop/American Express meeting.txt",
+		"/Volumes/NO NAME/Dump20180308.sql",
+		"/Users/darrensmith/Documents/Work Items/zipMoney/zip-projects/zipMoneyProjects.sublime-project",
+		"/Users/darrensmith/Downloads/client.ovpn",
+		"/Users/darrensmith/Desktop/database.yml backup",
+		"/Users/darrensmith/Downloads/windows/client.ovpn",
+		"/Users/darrensmith/GIT Repositories/IndustrySwarm/is-gateway/README.md",
+		"/Users/darrensmith/Downloads/48287-2009_expenses_302-965_0031522_2f_transactional_-_export.qif",
+		"/Users/darrensmith/Downloads/48287-2014_expenses_302-092_4368411_2f_telenet_saver_-_done_-_export_1.qif",
+		"/Users/darrensmith/Downloads/2014 Expenses (302-092 4368411 %2F Telenet Saver) - DONE - export.csv",
+		"/Users/darrensmith/Documents/Projects/vision-view/data.json",
+		"/Users/darrensmith/Downloads/graphql_2.0.0/schema.js",
+		"/Users/darrensmith/Downloads/graphql_2.0.0/README.md",
+		"/Users/darrensmith/Downloads/marvel_1.1.1/assets/app.js",
+		"/Users/darrensmith/Downloads/marvel_1.1.1/scripts/setup.js",
+		"/Users/darrensmith/Downloads/marvel_1.1.1/models/hero.js",
+		"/Users/darrensmith/Downloads/marvel_1.1.1/marvel.js",
+		"/Users/darrensmith/Downloads/client (7).ovpn",
+		"/Users/darrensmith/Downloads/marvel_1.1.1/manifest.json",
+		"/Users/darrensmith/Downloads/client (6).ovpn",
+		"/Users/darrensmith/Downloads/client (1).ovpn",
+		"/Users/darrensmith/client.ovpn",
+		"/Users/darrensmith/turtle.sh",
+		"/private/var/log/system.log",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm/IndustrySwarm-Libraries-BPMN/index.html",
+		"/Users/darrensmith/Desktop/error.txt",
+		"/usr/local/etc/nginx/sites-enabled/www.industryswarm.dev",
+		"/private/etc/hosts",
+		"/usr/local/etc/nginx/sites-enabled/www.darrensmith.dev",
+		"/Volumes/Ulysses 2.8.2 MAS/Extra/tnt.nfo",
+		"/Users/darrensmith/Documents/zipMoney/To Do Lists/20170716 To Do List.txt",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm/IndustrySwarm-Services/node_modules/knex-custom-fields/index.js",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm/IndustrySwarm-Services/node_modules/knex-custom-fields/lib/index.js",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm/IndustrySwarm-Services/node_modules/knex-custom-fields/package.json",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm/IndustrySwarm-Services/app.js",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm/IndustrySwarm-Services/modules/dynamic/default/dynamic.js",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm/IndustrySwarm-Services/modules/dynamic/default/module.json",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm-Services/modules/system/default/assets/test-data.json",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm-Services/models/categoryVisibility.js",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm-Services/models/categories.js",
+		"/Users/darrensmith/Desktop/internet connection details.txt",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm-Services/models/schemaTables.js",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm-Services/models/schemaAttributes.js",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm-Services/models/areaVisibility.js",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm-Services/models/companySettings.js",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm-Services/models/applicationSettings.js",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm-Services/models/applicationObjectMappings.js",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm-Services/models/databases.js",
+		"/Users/darrensmith/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/darrensmith/Documents/Projects/qemu-api/readme.md",
+		"/Users/darrensmith/Documents/Projects/livingdata.me/js/parallax.beautified.js",
+		"/Users/darrensmith/Documents/Projects/livingdata.me/js/parallax.beautified.min.js",
+		"/Users/darrensmith/Documents/Projects/livingdata.me/js/delete e.render-t.extend(this (i).reg",
+		"/Users/darrensmith/Documents/Projects/macDevPanel/readme.md",
+		"/Users/darrensmith/Documents/Projects/livingdata.me/index.html",
+		"/Users/darrensmith/Documents/Projects/graphcx/index.html",
+		"/Users/darrensmith/Documents/Projects/livingdata.me/CNAME",
+		"/Users/darrensmith/Documents/Projects/graphcx/CNAME",
+		"/usr/local/etc/nginx/sites-enabled/www.graphcx.dev",
+		"/usr/local/etc/nginx/sites-enabled/www.livingdata.dev",
+		"/usr/local/etc/varnish/default.vcl",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm-Services/app.js",
+		"/usr/local/etc/nginx/sites-enabled/services.industryswarm.dev",
+		"/Users/darrensmith/Documents/Projects/IndustrySwarm-Services/config/config.json",
+		"/usr/local/etc/nginx/sites-enabled/manager.industryswarm.dev",
+		"/usr/local/etc/nginx/sites-enabled/www.myjslab.dev",
+		"/usr/local/etc/nginx/sites-enabled/www.productpipes.dev",
+		"/Users/darrensmith/Documents/Projects/package.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/darrensmith/Documents/Projects/IndustrySwarm/IndustrySwarm-Services/node_modules/knex",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" -",
+			"webSocketPort",
+			"toString",
+			"www"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "isnode-template/node_modules/ismod-data/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 132.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "isnode-template/node_modules/ismod-router/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 293.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "isnode.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
