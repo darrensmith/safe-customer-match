@@ -101,7 +101,7 @@
 		console.log(" - (Match) Hashing local Email Database and Comparing to Third Party Hashes");
 		for (var i = 0; i < main.localEmails.length; i++) {
 			var saltedEmail = main.localEmails[i][0] + main.hashSalt;
-			var shasum = main.crypto.createHash('sha1');
+			var shasum = main.crypto.createHash('sha256');
 			shasum.update(saltedEmail);
 			main.localEmails[i][1] = shasum.digest('hex');
 			if(main.thirdPartyEmailsIndexed[main.localEmails[i][1]]){
@@ -157,7 +157,7 @@
 		console.log(" - (Generate) Hashing Local Email Database");
 		for (var i = 0; i < main.localEmails.length; i++) {
 			var saltedEmail = main.localEmails[i][0] + main.hashSalt;
-			var shasum = main.crypto.createHash('sha1');
+			var shasum = main.crypto.createHash('sha256');
 			shasum.update(saltedEmail);
 			main.localEmails[i][0] = shasum.digest('hex');
 			main.outputEmails.push([main.localEmails[i][0]]);
